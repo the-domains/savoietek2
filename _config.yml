@@ -1,6 +1,6 @@
 name: savoietek2
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.29058
 typography_spectrum: 0.59773
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.9460573440883309
-  lightness: 0.1944257237482816
-  saturation: 0.7584932867903262
-  rhythmicContrast: 0.8302764254622161
+    - '#f8981d'
+    - '#f9ef6b'
+    - '#ed2024'
+    - '#231f20'
+    - '#000000'
+  brandStrength: 0
+  lightness: 0.25
+  saturation: 0
+  rhythmicContrast: 0.75
 purpose: []
